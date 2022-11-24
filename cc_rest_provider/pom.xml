@@ -11,7 +11,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <!-- SPRING & HIBERNATE -->
         <spring.version>4.0.3.RELEASE</spring.version>
-        <hibernate.version>4.3.11.Final</hibernate.version>
+        <hibernate.version>5.3.20.Final</hibernate.version>
         <junit.version>4.11</junit.version>
         <cxf.version>3.2.0</cxf.version>
     </properties>
